@@ -1,7 +1,7 @@
 # TuringComplete-VideoPlayer
 在游戏《图灵完备》中播放视频
 
-![](blob/main/assets/1.png)
+![](assets/1.png)
 
 ## 存档使用
 
@@ -24,14 +24,14 @@
 
 不复制存档的话，也可以选择手动照着下面的图搓一下
 
-![](blob/main/assets/2.png)
+![](assets/2.png)
 
-![](blob/main/assets/3.png)
+![](assets/3.png)
 
-![](blob/main/assets/4.png)
+![](assets/4.png)
 
-![](blob/main/assets/5.png)
+![](assets/5.png)
 
-![](blob/main/assets/6.png)
+![](assets/6.png)
 
-![](blob/main/assets/7.png)
+![](assets/7.png)
