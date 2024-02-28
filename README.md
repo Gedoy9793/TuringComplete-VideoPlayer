@@ -1,6 +1,8 @@
 # TuringComplete-VideoPlayer
 在游戏《图灵完备》中播放视频
 
+B站视频：[https://www.bilibili.com/video/BV1wr421x79p/](https://www.bilibili.com/video/BV1wr421x79p/)
+
 ![](assets/1.png)
 
 ## 存档使用
